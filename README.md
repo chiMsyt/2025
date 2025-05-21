@@ -12,9 +12,6 @@ Currently a college student taking BS Data Science and Analytics<br><br>Learning
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chiMsyt&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chiMsyt&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
